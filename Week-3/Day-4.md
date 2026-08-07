@@ -1,17 +1,18 @@
 # Day 4
 
 ## Objective
-Documentation work.
+Understand conditional statements and comparison operators.
 
 ## Activities Performed
-- Updated project files.
-- Improved folder structure.
-- Added comments to code.
-- Organized documentation.
+- Learned conditional statements.
+- Used comparison operators.
+- Practiced logical operators.
+- Implemented decision-making programs.
 
 ## Learning
-- Documentation standards.
-- Project organization.
+- if statement.
+- if-else statement.
+- Logical and comparison operators.
 
 ## Outcome
-Project became easier to understand and maintain.
+Created programs using conditional statements to make decisions.

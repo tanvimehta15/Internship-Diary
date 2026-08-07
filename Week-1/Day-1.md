@@ -1,22 +1,10 @@
-# Day 1
+# Week 1 - Day 1 (01/06/2026)
 
-## Objective
-Introduction to the internship program and understanding the project requirements.
+## Discussion Topic / Activity
+- Basics of Web Development.
+- Introduction to HTML and CSS.
+- Web development location setup.
 
-## Activities Performed
-
-- Attended the internship orientation.
-- Introduction to the development team.
-- Installed Visual Studio Code and required extensions.
-- Configured the development environment.
-- Understood project workflow and objectives.
-
-## Learning
-
-- Importance of project planning.
-- Basics of GitHub repository structure.
-- Development environment setup.
-
-## Outcome
-
-Successfully completed the project setup and understood the workflow for the internship.
+## Details of Work Allotted Till Next Session
+- Install VS Code.
+- Create a basic HTML page using heading, paragraph and lists.

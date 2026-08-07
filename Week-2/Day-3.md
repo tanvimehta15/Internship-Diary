@@ -1,18 +1,18 @@
 # Day 3
 
 ## Objective
-Understanding responsive web design.
+Learn Bootstrap basics and responsive web design.
 
 ## Activities Performed
-- Learned responsive layouts.
-- Worked with Flexbox.
-- Designed mobile-friendly webpages.
-- Tested layouts on different screen sizes.
+- Introduction to Bootstrap.
+- Studied Bootstrap containers.
+- Worked with Bootstrap rows and columns.
+- Created responsive layouts.
 
 ## Learning
-- Responsive design.
-- Flexbox.
-- Mobile-first approach.
+- Bootstrap grid system.
+- Responsive webpage structure.
+- Faster webpage development.
 
 ## Outcome
-Created responsive webpage layouts.
+Built a responsive webpage layout using Bootstrap.

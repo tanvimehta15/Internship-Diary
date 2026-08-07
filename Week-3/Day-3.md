@@ -1,17 +1,18 @@
 # Day 3
 
 ## Objective
-Testing project functionality.
+Learn JavaScript variables, data types, and operators.
 
 ## Activities Performed
-- Checked webpage responsiveness.
-- Fixed layout errors.
-- Improved user experience.
-- Corrected minor bugs.
+- Studied JavaScript keywords.
+- Learned variables and data types.
+- Practiced arithmetic operators.
+- Used `Number()` for type conversion.
 
 ## Learning
-- Testing methods.
-- Bug fixing.
+- Variable declaration.
+- Data types in JavaScript.
+- Arithmetic operations.
 
 ## Outcome
-Project became more stable and responsive.
+Performed basic calculations and displayed results using JavaScript.

@@ -1,17 +1,18 @@
 # Day 2
 
 ## Objective
-Project implementation.
+Understand JavaScript basics and built-in functions.
 
 ## Activities Performed
-- Continued webpage development.
-- Improved navigation.
-- Added styling.
-- Fixed UI issues.
+- Introduction to JavaScript.
+- Learned the `<script>` tag.
+- Used `alert()`, `prompt()`, and `confirm()`.
+- Practiced the `console` method.
 
 ## Learning
-- Better UI practices.
-- Clean coding methods.
+- JavaScript syntax.
+- Browser dialog boxes.
+- Console output for debugging.
 
 ## Outcome
-Enhanced the overall project interface.
+Successfully created simple JavaScript programs using built-in browser functions.

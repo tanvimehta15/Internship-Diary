@@ -1,22 +1,10 @@
-# Day 2
+# Week 1 - Day 2 (02/06/2026)
 
-## Objective
+## Discussion Topic / Activity
+- Introduction to VS Code.
+- Creating the first HTML file.
+- Basic structure.
 
-Understanding project structure and development tools.
-
-## Activities Performed
-
-- Explored project folders.
-- Learned about HTML structure.
-- Understood CSS styling.
-- Practiced creating simple web pages.
-
-## Learning
-
-- HTML elements
-- CSS basics
-- Folder organization
-
-## Outcome
-
-Successfully created a simple webpage and understood the basic project structure.
+## Details of Work Allotted Till Next Session
+- Practice HTML tags.
+- Create a simple personal profile webpage.

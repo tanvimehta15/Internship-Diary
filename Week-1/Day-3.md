@@ -1,21 +1,11 @@
-# Day 3
+# Day 3 (03/06/2026)
 
-## Objective
+## Discussion Topic / Activity
+- Text formatting tags
+- List elements
+- Hyperlinks
+- Image tags
+- Form elements
 
-Learning JavaScript fundamentals.
-
-## Activities Performed
-
-- Variables and data types.
-- Functions.
-- DOM manipulation.
-- Event handling.
-
-## Learning
-
-- JavaScript basics.
-- Interactive web pages.
-
-## Outcome
-
-Created a webpage with basic JavaScript interactions.
+## Details of Work Allotted Till Next Session
+- Create a student registration form using HTML form tags.

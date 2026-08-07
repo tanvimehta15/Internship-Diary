@@ -1,21 +1,10 @@
-# Day 4
+# Day 4 (04/06/2026)
 
-## Objective
+## Discussion Topic / Activity
+- HTML Tables
+- CSS styling for tables
+- Layout elements
+- Semantic HTML tags
 
-Working with JSON data.
-
-## Activities Performed
-
-- Learned JSON syntax.
-- Created sample JSON files.
-- Converted data into JSON format.
-- Read JSON using JavaScript.
-
-## Learning
-
-- JSON structure.
-- Data handling.
-
-## Outcome
-
-Successfully displayed JSON data on a webpage.
+## Details of Work Allotted Till Next Session
+- Create a webpage with tables and layout using HTML & CSS.

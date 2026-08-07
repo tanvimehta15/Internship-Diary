@@ -1,18 +1,17 @@
 # Day 4
 
 ## Objective
-Learning Git and GitHub workflow.
+Understand Bootstrap grid and page layout.
 
 ## Activities Performed
-- Created Git repository.
-- Made commits.
-- Learned push and pull operations.
-- Uploaded project files.
+- Worked with Bootstrap grid system.
+- Created rows and columns.
+- Designed responsive page layouts.
 
 ## Learning
-- Version control.
-- Git commands.
-- Repository management.
+- Grid-based webpage design.
+- Responsive layout techniques.
+- Organizing webpage content.
 
 ## Outcome
-Successfully uploaded project to GitHub.
+Successfully designed a responsive webpage using Bootstrap grid.

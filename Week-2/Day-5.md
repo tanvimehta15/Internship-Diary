@@ -1,18 +1,18 @@
 # Day 5
 
 ## Objective
-Weekly project review.
+Learn Bootstrap components.
 
 ## Activities Performed
-- Revised completed tasks.
-- Fixed design issues.
-- Improved code quality.
-- Updated documentation.
+- Used Bootstrap buttons.
+- Added Bootstrap cards.
+- Worked with Bootstrap spinners.
+- Explored basic Bootstrap components.
 
 ## Learning
-- Debugging.
-- Code optimization.
-- Documentation.
+- Ready-made Bootstrap components.
+- Faster UI development.
+- Styling webpages efficiently.
 
 ## Outcome
-Successfully completed Week 2 activities.
+Created an attractive webpage using Bootstrap components.

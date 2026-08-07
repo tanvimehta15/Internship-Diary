@@ -1,18 +1,17 @@
 # Day 2
 
 ## Objective
-Working with Figma.
+Understand text formatting and font styling using CSS.
 
 ## Activities Performed
-- Explored Figma tools.
-- Created simple wireframes.
-- Learned about frames, components and layouts.
-- Practiced designing mobile screens.
+- Learned text styling properties.
+- Applied different font properties.
+- Used various CSS text formatting options.
 
 ## Learning
-- Wireframing.
-- Design alignment.
-- Color consistency.
+- Font family and font size.
+- Text alignment and decoration.
+- Improving webpage appearance with CSS.
 
 ## Outcome
-Successfully created basic UI wireframes.
+Successfully styled webpage text using different CSS properties.

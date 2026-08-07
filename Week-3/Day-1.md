@@ -1,17 +1,18 @@
 # Day 1
 
 ## Objective
-Working with JSON data.
+Learn GitHub basics and upload a project repository.
 
 ## Activities Performed
-- Created JSON files.
-- Modified JSON objects.
-- Connected JSON with HTML.
-- Displayed dynamic content.
+- Created a GitHub account.
+- Explored GitHub repositories.
+- Uploaded a project to GitHub.
+- Learned basic repository management.
 
 ## Learning
-- JSON parsing.
-- Dynamic webpage creation.
+- GitHub account creation.
+- Repository management.
+- Project hosting using GitHub.
 
 ## Outcome
-Successfully displayed JSON content in webpages.
+Successfully uploaded a web project to GitHub and understood basic version control.

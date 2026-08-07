@@ -1,16 +1,17 @@
 # Day 5
 
 ## Objective
-Weekly review.
+Learn JavaScript string methods and operations.
 
 ## Activities Performed
-- Completed pending tasks.
-- Fixed remaining issues.
-- Prepared progress report.
+- Studied string methods.
+- Performed string operations.
+- Practiced string manipulation programs.
 
 ## Learning
-- Time management.
-- Task planning.
+- String methods.
+- String operations.
+- Text manipulation in JavaScript.
 
 ## Outcome
-Successfully completed Week 3.
+Successfully used JavaScript string methods to manipulate text.
